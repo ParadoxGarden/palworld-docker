@@ -8,4 +8,4 @@ services:
     ports:
       - 8211:8211/udp
     volumes:
-      - ./Saved:/home/pal/ds/Pal/Saved
+      - ./Saved:/home/steam/ds/Pal/Saved
